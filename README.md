@@ -1,5 +1,5 @@
 # 603Project2
-Identifying subjects in thepose.mat dataset
+Identifying subjects in the pose.mat dataset
 
 Identifying handwritten digits in the MNIST dataset
 
